@@ -16,3 +16,6 @@ STUDENTS_PROGRAMMS/Shelfs/functions/__pycache__/__init__.cpython-38.pyc
 STUDENTS_PROGRAMMS/Shelfs/functions/__pycache__/func.cpython-38.pyc
 STUDENTS_PROGRAMMS/Shelfs/functions/__pycache__/functions.cpython-38.pyc
 STUDENTS_PROGRAMMS/Shelfs/functions/__pycache__/get_name.cpython-38.pyc
+.mypy_cache/
+.vscode/
+.venv/
